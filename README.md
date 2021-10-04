@@ -69,7 +69,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eshaananand" alt="eshaananand" /></a> </p>
 
-
+<p align="center"><a target="blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=eshaananand"></a></p>
 <br/>
 <br/>
 
@@ -78,6 +78,6 @@
 <br/>
 <br/>
  
-                                                                                             <p align="center"><a target="blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=eshaananand"></a></p>
+                                                                                             
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eshaananand&show_icons=true&locale=en" alt="eshaananand" /></p>
