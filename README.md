@@ -10,6 +10,23 @@
 
 - 📄 [Android Developer at Microsoft Learn Student Ambassadors KiiT || Competative Programmer at Gfg KiiT Chapter](Android Developer at Microsoft Learn Student Ambassadors KiiT || Competative Programmer at Gfg KiiT Chapter)
 
+<p align="center">
+    <a href="https://github.com/eshaananand/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Eshaan Anand's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eshaananand&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/eshaananand/github-readme-stats"><img alt="Eshaan Anand's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eshaananand&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/eshaan-anand-9a85371b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eshaan-anand-9a85371b7/" height="30" width="40" /></a>
