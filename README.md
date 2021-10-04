@@ -38,4 +38,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eshaananand&show_icons=true&locale=en&layout=compact" alt="eshaananand" /></p>
 
+<br/>
+<br/>
+
+<a href="https://github.com/eshaananand/github-readme-activity-graph"><img alt="Eshaan Anand's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eshaananand&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eshaananand&show_icons=true&locale=en" alt="eshaananand" /></p>
