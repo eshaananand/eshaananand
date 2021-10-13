@@ -7,10 +7,6 @@
 
 
 
-
-
-
-
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **A SecreT Project**
