@@ -5,8 +5,6 @@
 <h3 align="center">I am a 2nd year student at KIIT University, Bhubaneswar. I am a Computer Science student improving skills with every passing day. I love to connect with new people and admire everyone having passion for coding. I am mostly found sitting in front of my laptop writing codes, watching fiction movies or strumming my guitar.</h3>
 
 
-
-
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **A SecreT Project**
@@ -73,7 +71,6 @@
 
 <br/>
 <br/>
- 
-                                                                                             
+                                                                                              
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eshaananand&show_icons=true&locale=en" alt="eshaananand" /></p>
