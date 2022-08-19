@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Eshaan</h1>
 
-<h3 align="center">I am a 2nd year student at KIIT University, Bhubaneswar. I am a Computer Science student improving skills with every passing day. I love to connect with new people and admire everyone having passion for coding. I am mostly found sitting in front of my laptop writing codes, watching fiction movies or strumming my guitar.</h3>
+<h3 align="center">I am a 3rd year student at KIIT University, Bhubaneswar. I am a Computer Science student improving skills with every passing day. I love to connect with new people and admire everyone having passion for coding. I am mostly found sitting in front of my laptop writing codes, watching fiction movies or strumming my guitar.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -21,7 +21,7 @@
 
 ## 📄 Experience
 
-- **Android Developer at Microsoft Learn Student Ambassadors KiiT**
+- **Android Developer Lead at Microsoft Learn Student Ambassadors KiiT**
 
 - **Competative Programmer at Gfg KiiT Chapter**
 
